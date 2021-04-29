@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 25px 300px;
+    background-color: #f3f3f3;
+}
+#borbolina{
+    background-color: white;
+    padding: 10px 20px;
+}
+html{
+    font-family:arial;
+}
+ol{
+    font-size: 20px
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.section{
+    margin: 13px 0;
+}
+.flex{
+    display: flex;
+}
+#ciao{
+    align-self: center;
+}
+ul{
+    padding: 3px 20px;
+}
+p{
+    padding: 3px 0;
+}
+.calcoli{
+    padding-left: 80px;
+    font-weight: bolder;
+}
+footer{
+    text-align: right;
+    font-family: 'cedarville cursive';
+    font-size: 25px
+}
+.robertspierre{
+    justify-content: space-between;
+}
